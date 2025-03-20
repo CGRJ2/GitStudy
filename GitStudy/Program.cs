@@ -10,7 +10,7 @@ namespace GitStudy
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("외    부    변    경");
             Console.WriteLine("1차 변경");
             Console.WriteLine("커밋 변경 고고");
             Console.WriteLine("오케이");
