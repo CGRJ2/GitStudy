@@ -15,6 +15,7 @@ namespace GitStudy
             Console.WriteLine("커밋 변경 고고");
             Console.WriteLine("오케이");
             Console.WriteLine("휘비고");
+            Console.WriteLine("안되는데?");
             
         }
     }
