@@ -16,6 +16,7 @@ namespace GitStudy
             Console.WriteLine("오케이");
             Console.WriteLine("휘비고");
             Console.WriteLine("안되는데?");
+            Console.WriteLine("안되는데?");
             
         }
     }
