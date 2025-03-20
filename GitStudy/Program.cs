@@ -10,6 +10,7 @@ namespace GitStudy
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("dsfasdf");
         }
     }
 }
